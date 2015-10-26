@@ -1,0 +1,21 @@
+{
+  "name": "resources",
+  "version": "0.0.0",
+  "description": "resources for sensors",
+  "keywords": [],
+  "author": "",
+  "repository": {
+    "url": "https://github.com/awatt196/resources.git",
+    "type": "git"
+  },
+  "homepage": "",
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/Apache-2.0",
+      "type": "Apache-2.0"
+    }
+  ],
+  "dependencies": {
+    "mbed-drivers": "~0.11.1"
+  }
+}
